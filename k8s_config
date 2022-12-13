@@ -1,0 +1,6 @@
+# config options
+GCP_ZONE="us-central1-a"
+GCP_CLUSTER="llvm-premerge-checks"
+GCP_PROJECT="llvm-premerge-checks"
+GCR_HOSTNAME="gcr.io"
+GCP_CLUSTER_WINDOWS="windows-agents"
